@@ -148,3 +148,7 @@ print( x,y )  or print(x,y, sep=',')
 
 print("Hello",end=',')
 print("Hi")
+
+
+print("ajay")
+print("aj")
