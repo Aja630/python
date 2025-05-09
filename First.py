@@ -137,18 +137,39 @@ vi. Identity {is,is not}
 # print(len(l))
 # print(sum(l))
 
-print("Hello")
-print("Hi")
+# print("Hello")
+# print("Hi")
 
-x=10
-y=20
+# x=10
+# y=20
 
-print( x,y )  or print(x,y, sep=',')
-
-
-print("Hello",end=',')
-print("Hi")
+# print( x,y )  or print(x,y, sep=',')
 
 
-print("ajay")
-print("aj")
+# print("Hello",end=',')
+# print("Hi")
+
+
+# print("ajay")
+# print("aj")
+
+
+
+
+# s= 'i love python'         #slice
+# print(s[::2])
+
+# s= 'i love python'
+# print(s[::-1])           #interview *imp
+
+# s= 'i love python'
+# print(s[2:10])
+
+# s= 'i love python'          * empty slice
+# print(s[7:-10])
+
+
+s= 'i love python'
+    
+print(s[::-1] [1:7] [::-1] [2:3])
+
