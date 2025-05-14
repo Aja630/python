@@ -160,12 +160,16 @@ d={'name': 'ajay','age':21,'quali':'b.tech'}
 # d.popitem()
 # print(d)
 
-# l=[1,2,3,'z','p','q','r']
+l=[1,2,3,'z','p','q','r']
 # d=dict.fromkeys(l,10)
 # print(d)
 # (d.setdefault('name','rahul'))
 # print(d)
 # d.copy()
 # print(d)
-d.clear()
+# d.clear()
+# print(d)
+# d.update(d)
+# print(d)
+d.fromkeys(d)
 print(d)
