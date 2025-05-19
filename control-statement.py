@@ -64,9 +64,9 @@
 #     print(f'{z} is greater')
 
 
-p=(input("enter any number"))
-q=(input("enter any number"))
-r=(input("enter any number"))
+x=(input("enter any number"))
+y=(input("enter any number"))
+z=(input("enter any number"))
 if (x>y and x>z):
     print(f'{x} is greater')
 elif (y>x and y>z):
